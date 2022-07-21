@@ -24,3 +24,5 @@ file.create();
 file.getString("language")
 // It will return "Java" (without quotation marks).
 ```
+
+The .jar is comming in a future update.
